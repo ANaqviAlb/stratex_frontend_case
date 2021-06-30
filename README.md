@@ -8,7 +8,4 @@
       4. Validation through form while adding users.
   
   2. Focus areas:
-      1. Code should be easy to understand.
-      2. Good Naming conventions shall be used.
-      3. UX shall remain intact.
-      4. Readablitiy of code.
+      1. Code Refactoring should be implemented if the project is to part of application.
